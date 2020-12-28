@@ -36,13 +36,13 @@ You can figure it out how the normal distribution of corresponding source and ta
 
 ## Results
 
-[1](images/IMG1.jpg)
+![1](images/IMG1.jpg)
 
 
-[2](images/IMG2.jpg)
+![2](images/IMG2.jpg)
 
 
-[3](images/IMG3.jpg)
+![3](images/IMG3.jpg)
 
 
-[4](images/IMG4.jpg)
+![4](images/IMG4.jpg)
