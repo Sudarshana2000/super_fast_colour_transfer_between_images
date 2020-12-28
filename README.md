@@ -36,12 +36,13 @@ You can figure it out how the normal distribution of corresponding source and ta
 
 ## Results
 
-<div style="float:left"><img width="45%" src="https://github.com/Sudarshana2000/super_fast_colour_transfer_between_images/blob/master/images/IMG1.jpg" />
-<img width="45%" src="https://github.com/Sudarshana2000/super_fast_colour_transfer_between_images/blob/master/images/IMG2.jpg" />
-</div>
-<br /><br />
+[1](images/IMG1.jpg)
 
-<div style="float:left"><img width="45%" src="https://github.com/Sudarshana2000/super_fast_colour_transfer_between_images/blob/master/images/IMG3.jpg" />
-<img width="45%" src="https://github.com/Sudarshana2000/super_fast_colour_transfer_between_images/blob/master/images/IMG4.jpg" />
-</div>
-<br /><br />
+
+[2](images/IMG2.jpg)
+
+
+[3](images/IMG3.jpg)
+
+
+[4](images/IMG4.jpg)
