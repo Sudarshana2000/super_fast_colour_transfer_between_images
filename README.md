@@ -3,7 +3,7 @@
 Applying photoshop effects seems very interesting and delightful! One of such photoshop effects is "colour transfer between images". Suppose you have a picture of sun-rise. What if we convert it to sun-set? All we need to do is changing the background lighting.
 
 
-![1](images/trial1.jpg)
+![1](images/IMG1.jpg)
 
 
 Being a python enthusiast, I applied this photoshop effect using python and OpenCV! The user needs to provide the source and the target images. Then, the program outputs the desired result - the background colour of source image is applied to the target image.
@@ -35,8 +35,6 @@ You can figure it out how the normal distribution of corresponding source and ta
 
 
 ## Results
-
-![1](images/IMG1.jpg)
 
 
 ![2](images/IMG2.jpg)
